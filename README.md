@@ -8,7 +8,7 @@ I recently graduated with a bachelors degree in business analytics and informati
 
 * 🌍  I'm based in Florida
 * ✉️  You can contact me at [MarisaFrederick62@gmail.com](mailto:MarisaFrederick62@gmail.com)
-* 🧠  I'm learning data security and compliance
+* 🧠  I'm currently learning data security and compliance by studying for my Security+ certification 
 * ⚡  3 words to describe me are creative, driven, and caring
 
 ### Skills
